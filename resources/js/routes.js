@@ -1,4 +1,5 @@
-import Home from "./views/Home";
+let Home = () =>
+    import(/* webpackChunkName: "home" */ './views/Home');
 
 export default {
     mode: 'history',

@@ -22,6 +22,7 @@ As the title tells this repo contains a boilerplate for people who want a quick 
 
 ## SETUP
 Setup is quite simple
+
 **clone or download repo**
 ```shell script
 git clone https://github.com/xlith/laravel-buefy-spa-starter.git 

@@ -35,7 +35,11 @@ Vue.use(VueRouter);
 import Buefy from 'buefy';
 Vue.use(Buefy);
 
+//setup vuex
+import store from './store';
+
 const app = new Vue({
     el: '#app',
+    store,
     router: new VueRouter(routes)
 });

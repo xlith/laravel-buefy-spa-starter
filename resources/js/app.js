@@ -28,8 +28,12 @@ Vue.component('App', require('./App.vue').default);
  */
 import VueRouter from 'vue-router';
 
-import routes from './routes'
+import routes from './routes';
 Vue.use(VueRouter);
+
+//import Buefy full bundle
+import Buefy from 'buefy';
+Vue.use(Buefy);
 
 const app = new Vue({
     el: '#app',

@@ -1,7 +1,5 @@
 # LARAVEL BUEFY SPA STARTER
 As the title tells this repo contains a boilerplate for people who want a quick start to the project.
-## USAGE
-Usage is quite simple
 ## REPO CONTENTS
 ### Backend
 * Laravel
@@ -23,6 +21,7 @@ Usage is quite simple
 * Sass
 
 ## SETUP
+Setup is quite simple
 **clone or download repo**
 ```shell script
 git clone https://github.com/xlith/laravel-buefy-spa-starter.git 

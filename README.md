@@ -2,7 +2,7 @@
 As the title tells this repo contains a boilerplate for people who want a quick start to the project.
 ## USAGE
 Usage is quite simple
-## CONTENTS
+## REPO CONTENTS
 ### Backend
 * Laravel
 * Laravel Passport
@@ -22,7 +22,7 @@ Usage is quite simple
 * Popper.Js
 * Sass
 
-
+## SETUP
 **clone or download repo**
 ```shell script
 git clone https://github.com/xlith/laravel-buefy-spa-starter.git 

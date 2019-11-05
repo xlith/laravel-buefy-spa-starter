@@ -1,6 +1,8 @@
 # LARAVEL BUEFY SPA STARTER
 As the title tells this repo contains a boilerplate for people who want a quick start to the project.
+
 ![Screenshot](Screenshot.png)
+
 ## REPO CONTENTS
 ### Backend
 * Laravel

@@ -62,10 +62,6 @@ DB_PASSWORD=DatabasePassword
 ```shell script
 php artisan migrate
 ```
-**create oauth clients**
-```shell script
-php artisan passport:install
-```
 **create oauth clients and keys**
 ```shell script
 php artisan passport:install
